@@ -1,0 +1,10 @@
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\bin\Debug\Nemetschek Genealogy Family Tree.exe.config
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\bin\Debug\Nemetschek Genealogy Family Tree.exe
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\bin\Debug\Nemetschek Genealogy Family Tree.pdb
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\obj\Debug\Nemetschek Genealogy Family Tree.csproj.AssemblyReference.cache
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\obj\Debug\Nemetschek_Genealogy_Family_Tree.Form1.resources
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\obj\Debug\Nemetschek_Genealogy_Family_Tree.Properties.Resources.resources
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\obj\Debug\Nemetschek Genealogy Family Tree.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\obj\Debug\Nemetschek Genealogy Family Tree.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\obj\Debug\Nemetschek Genealogy Family Tree.exe
+C:\Users\ivano\OneDrive\Desktop\nemetschek application\Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree\obj\Debug\Nemetschek Genealogy Family Tree.pdb

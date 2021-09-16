@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nemetschek Genealogy Family Tree", "Nemetschek Genealogy Family Tree\Nemetschek Genealogy Family Tree.csproj", "{9333A910-2FF1-4BC0-A758-98018ED2C3BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9333A910-2FF1-4BC0-A758-98018ED2C3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9333A910-2FF1-4BC0-A758-98018ED2C3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9333A910-2FF1-4BC0-A758-98018ED2C3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9333A910-2FF1-4BC0-A758-98018ED2C3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755318ED-3B3B-47F4-BB27-C4B48E0D0793}
+	EndGlobalSection
+EndGlobal
